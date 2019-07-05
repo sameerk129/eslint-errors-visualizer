@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 // Grab the provided args
-const [...args] = process.argv;
+const [ , , ...args] = process.argv;
 
 console.log(`These are the arguments ${args}`);
 
