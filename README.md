@@ -1,0 +1,1 @@
+# eslint-errors-visualizer
