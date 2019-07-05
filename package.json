@@ -1,6 +1,6 @@
 {
   "name": "eslint-errors-visualizer",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Visualize eslint errors of repository",
   "main": "index.js",
   "scripts": {
