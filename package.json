@@ -16,7 +16,5 @@
     "url": "https://github.com/sameerk129/eslint-errors-visualizer/issues"
   },
   "homepage": "https://github.com/sameerk129/eslint-errors-visualizer#readme",
-  "dependencies": {
-    "eslint": "^6.0.1"
-  }
+  "dependencies": {}
 }
