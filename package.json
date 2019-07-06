@@ -1,6 +1,6 @@
 {
   "name": "eslint-errors-visualizer",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Visualize eslint errors of repository",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,7 @@
     "url": "https://github.com/sameerk129/eslint-errors-visualizer/issues"
   },
   "homepage": "https://github.com/sameerk129/eslint-errors-visualizer#readme",
-  "dependencies": {}
+  "dependencies": {
+    "eslint": "^6.0.1"
+  }
 }
